@@ -7,7 +7,8 @@
     ],
     "albums": [
         {
-            "user": [
+            "user": 1,
+            "photos": [
                 {
                     "src": "https://picsum.photos/200/300"
                 },
